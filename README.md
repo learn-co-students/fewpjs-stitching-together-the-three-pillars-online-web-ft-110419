@@ -1,6 +1,6 @@
 # Stitching Together the Three Pillars
 
-## Learning Goals
+### Learning Goals
 
 - Identify the three essential pillars of front-end web programming
 - Cause a change to given code so that DOM updating effect is seen
